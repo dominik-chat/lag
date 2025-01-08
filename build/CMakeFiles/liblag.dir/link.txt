@@ -1,0 +1,2 @@
+/usr/bin/ar qc libliblag.a CMakeFiles/liblag.dir/datastruct/list/slist/slist.c.o
+/usr/bin/ranlib libliblag.a

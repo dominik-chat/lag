@@ -1,0 +1,9 @@
+/home/chomik/projects/lag/build/CMakeFiles/liblag.dir
+/home/chomik/projects/lag/build/CMakeFiles/edit_cache.dir
+/home/chomik/projects/lag/build/CMakeFiles/rebuild_cache.dir
+/home/chomik/projects/lag/build/datastruct/CMakeFiles/edit_cache.dir
+/home/chomik/projects/lag/build/datastruct/CMakeFiles/rebuild_cache.dir
+/home/chomik/projects/lag/build/datastruct/list/CMakeFiles/edit_cache.dir
+/home/chomik/projects/lag/build/datastruct/list/CMakeFiles/rebuild_cache.dir
+/home/chomik/projects/lag/build/datastruct/list/slist/CMakeFiles/edit_cache.dir
+/home/chomik/projects/lag/build/datastruct/list/slist/CMakeFiles/rebuild_cache.dir
